@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x44a97CEA4C52988a6e0C0D3fB4A28b4F2D90A2C4",
+  "SCAN_LINK": "https://polygonscan.com/token/0x44a97CEA4C52988a6e0C0D3fB4A28b4F2D90A2C4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Furious Big Cats",
+  "SYMBOL": "FBC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/furiousbigcats",
+  "SHOW_BACKGROUND": true
+}
